@@ -1,7 +1,7 @@
 # dancing parrot clock
 ## its a parrot that dances above a clock <br /> <img src="https://media.tenor.com/d3RKzo0L4n8AAAAi/party-parrot.gif" />
 
-visit: `https://pyco-dev.github.io/dancing-parrot-clock/` to view the page.
+Click <a href="https://pyco-dev.github.io/dancing-parrot-clock/">here</a> to view the page.
 
 built with react + vite.
 
